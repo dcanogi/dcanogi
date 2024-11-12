@@ -20,7 +20,7 @@ Currently, I am focused on expanding my skills in DevOps and systems automation,
 
 ## 📚 Learning Goals:
 - Achieve an advanced level in **Linux systems administration**.
-- Continue improving my skills in **DevOps** to land a **Junior DevOps** position.
+- Continue improving my skills in **DevOps**.
 - Build 100 practical mini-projects to enhance my expertise in different DevOps technologies.
 
 ## 🌱 Fun Fact:

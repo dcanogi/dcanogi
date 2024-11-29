@@ -13,10 +13,10 @@ Currently, I am focused on expanding my skills in DevOps and systems automation,
 
 ## 🔧 Technologies & Tools:
 - **Languages**: Bash, PowerShell, Python
-- **DevOps Tools**: Docker, Kubernetes, Terraform, Jenkins, GitLab CI
-- **Cloud Providers**: AWS, GCP
-- **Operating Systems**: Linux (Ubuntu, CentOS), Windows
-- **Other**: Grafana, Graylog, Kibana, Nginx
+- **DevOps Tools**: Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
+- **Cloud Providers**: AWS, GCP, Azure, Digital Ocean
+- **Operating Systems**: Linux (Alpine, Ubuntu, Redhat), Windows (95 to Windows 11 including Windows Server 2008 to 2019)
+- **Other**: Grafana, Graylog, Nginx
 
 ## 📚 Learning Goals:
 - Achieve an advanced level in **Linux systems administration**.
